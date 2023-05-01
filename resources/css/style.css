@@ -10,7 +10,31 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+img {
+  margin-top: 1.5rem;
+}
+
+video {
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.copyright {
+  text-align: right;
 }
